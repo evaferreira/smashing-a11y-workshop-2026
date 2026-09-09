@@ -10,6 +10,7 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "test:storybook": "vitest run --project=storybook",
+    "test:a11y-budget": "npm run build-storybook && node scripts/a11y-budget.mjs",
     "lint": "eslint .",
     "format": "prettier --write .",
     "typecheck": "tsc --noEmit"
