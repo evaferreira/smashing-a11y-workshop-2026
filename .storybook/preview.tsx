@@ -19,6 +19,9 @@ const Surface = styled.div`
 const preview: Preview = {
   tags: ['autodocs'],
   parameters: {
+    a11y: {
+      test: 'error',
+    },
     // The theme toolbar owns the canvas background.
     backgrounds: { disable: true },
     controls: {
