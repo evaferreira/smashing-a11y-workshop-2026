@@ -19,7 +19,7 @@ npm run storybook        # http://localhost:6006
 
 Use the **Theme** control in the toolbar to flip every story between light and dark.
 
-## Scripts
+## Scriptsnp
 
 | Script                    | What it does                                                            |
 | ------------------------- | ----------------------------------------------------------------------- |
